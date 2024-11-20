@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 15,
 		"supported_formats": [15, 32],
-        "description": "Cutiecord"
+        "description": "§bCu§dti§fe§dco§brd"
     },
 	"overlays": {
 		"entries": [
